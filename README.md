@@ -69,7 +69,7 @@ hr-analytics-dashboard/
 ## 👤 Author
 
 **Nitish Mittal**
-[LinkedIn](https://linkedin.com/in/your-profile) • [GitHub](https://github.com/your-username)
+[LinkedIn](www.linkedin.com/in/nitish-mittal-bi) • [GitHub](https://github.com/nitishm276-byte)
 
 ---
 *This project was built as part of a self-directed learning exercise to strengthen Power BI, DAX, and data storytelling skills.*
